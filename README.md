@@ -1,4 +1,4 @@
-# My E-Commerce Product App
+# E-commerce-Product-Page
 
 This is a Next.js app for showcasing products with image lazy loading, variant selection, and more.
 
